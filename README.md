@@ -1,7 +1,9 @@
 # Zcash Ecosystem Digest | August 8th
 
 Announcement of the Hackathon 3.0 winners, Arrival of ZSA testnet, Migration of 1M+ zec into ironwood shielded pool, Introduction of Ztrash: a disposable email inbox service, 
-New version of Zingo-PC, Zebra 6.2.3 released: Zebra Nix flake has been updated, CYPH infinite money glitch, NU7 token holder vote
+New version of Zingo-PC, Zebra 6.2.3 released: Zebra Nix flake has been updated, CYPH infinite money glitch, NU7 token holder vote.
+
+Curated by 
 
 ## Shielded Labs, ZODL, Zcash Foundation , and Zcash Updates 🛠️
 
@@ -130,9 +132,9 @@ New version of Zingo-PC, Zebra 6.2.3 released: Zebra Nix flake has been updated,
 
 
 ## Meme Of The Week
-[1M ZEC in Ironwood. -@zodl_co}(https://x.com/zodl_co/status/2084646459928977485?s=20)
+[1M ZEC in Ironwood. -@zodl_co](https://x.com/zodl_co/status/2084646459928977485?s=20)
 
-##Jobs in the ecosystem
+## Jobs in the ecosystem
 
 
  
