@@ -170,11 +170,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [1M ZEC in Ironwood. -@zodl_co](https://x.com/zodl_co/status/2084646459928977485?s=20)
 
 ## Jobs in the ecosystem
-[ZecHub Bounties](https://bounties.zechub.wiki/)
-[ZKAV Club Opportunities](https://zkav.club/opportunities/)
-[zkSNARKs Grants](https://zksnarks.net/grants.html)
-[Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
-[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
+-[ZecHub Bounties](https://bounties.zechub.wiki/)
+-[ZKAV Club Opportunities](https://zkav.club/opportunities/)
+-[zkSNARKs Grants](https://zksnarks.net/grants.html)
+-[Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
+-[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
 
 
  
