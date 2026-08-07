@@ -3,11 +3,11 @@
 Announcement of the Hackathon 3.0 winners, Arrival of ZSA testnet, Migration of 1M+ zec into ironwood shielded pool, Introduction of Ztrash: a disposable email inbox service, 
 New version of Zingo-PC, Zebra 6.2.3 released: Zebra Nix flake has been updated, CYPH infinite money glitch, NU7 token holder vote.
 
-Curated by 
+Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 ## Shielded Labs, ZODL, Zcash Foundation , and Zcash Updates 🛠️
 
-[Arrival of ZSA testnet - @ZecHub](https://x.com/ZecHub/status/2084337834719342760?s=20)(https://t.co/qmfngga3Cz)(https://t.co/43gEo8cVGw)
+[Arrival of ZSA testnet - @ZecHub](https://x.com/ZecHub/status/2084337834719342760?s=20)
 
 [Announcement of Hackathon 3.0 winners -@ZecHub](https://x.com/ZecHub/status/2084392732550951014?s=20)
 
