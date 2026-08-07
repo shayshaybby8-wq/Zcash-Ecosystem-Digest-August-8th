@@ -174,8 +174,7 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [What can we do to reward users who add businesses to Zecmap? 👀 -@ZecMap](https://x.com/ZecMap/status/2084380697620345034?s=20)
 
-[We’re proud to welcome @Zcash as a Gold Sponsor of Web3Lagos Conference 5.0. -@Web3LagosCon]
-(https://x.com/Web3LagosCon/status/2085044527262290004?s=20)
+[We’re proud to welcome @Zcash as a Gold Sponsor of Web3Lagos Conference 5.0. -@Web3LagosCon](https://x.com/Web3LagosCon/status/2085044527262290004?s=20)
 
 [NYM Community Call With: @feministPLT @harryhalpin](https://x.com/nym/status/2085399625008042032?s=20)
  
