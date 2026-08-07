@@ -39,6 +39,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Our map currently looks like this. -@ZecMap](https://x.com/ZecMap/status/2085447730499903955?s=20)
 
+[Mass surveillance always begins with good intentions. -@zodl_co](https://x.com/zodl_co/status/2085060570290565318?s=20)
+
+[When I fell into the Zcash rabbit hole last year, I did not see this coming! -@thefrankbraun](https://x.com/thefrankbraun/status/2085441888216342836?s=20)
+
+
 
 ## Zcash Community Grants 🏛️
 
@@ -107,6 +112,8 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Over 1 million ZEC are already in the Ironwood pool.-@zcasbrazil](https://x.com/zcashbrazil/status/2084997568090485007?s=20)
 
+[TRY ZCASH Here is why 👇](https://x.com/BTCTurtle/status/2085314074053632505?s=20)
+
 [Ironwood live: 1,288,588 ZEC have already migrated to the new shielded pool](https://x.com/zcashbrazil/status/2085137453841596583?s=20)
 
 [Coinholder vote starting August 25 and lasting approximately 18 days, deciding on the scope of the upcoming NU7 upgrade. -@ebfull](https://x.com/ebfull/status/2085132326493970838?s=20)
@@ -163,7 +170,12 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [What can we do to reward users who add businesses to Zecmap? 👀 -@ZecMap](https://x.com/ZecMap/status/2084380697620345034?s=20)
 
-[We’re proud to welcome @Zcash as a Gold Sponsor of Web3Lagos Conference 5.0. -@Web3LagosCon](https://x.com/Web3LagosCon/status/2085044527262290004?s=20)
+[We’re proud to welcome @Zcash as a Gold Sponsor of Web3Lagos Conference 5.0. -@Web3LagosCon]
+(https://x.com/Web3LagosCon/status/2085044527262290004?s=20)
+
+[NYM Community Call With: @feministPLT @harryhalpin](https://x.com/nym/status/2085399625008042032?s=20)
+ 
+ 
 
 
 ## Meme Of The Week 😊
