@@ -53,6 +53,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [ZCAP NU7 Poll Opens August 27th -@ZcashFoundation](https://forum.zcashcommunity.com/t/zcap-nu7-poll-opens-august-27th/56928/1)
 
+[The recording of 06 August Zcash Arborist Call is live!-@ZcashFoundation](https://x.com/ZcashFoundation/status/2085676031617196155?s=20)
+
+[Follow the flows live. Zodl migration is about to get streamlined 🔜: -@zodl_co](https://x.com/zodl_co/status/2085810758227517869?s=20)
+
+
 ## Zcash Community Grants 🏛️
 
 [Grant Application: Shielded ZEC Privacy and Trust Architecture Framework -@syla](https://forum.zcashcommunity.com/c/grants/applications/36)
@@ -202,6 +207,10 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [Feedback wanted: a DIY, open source, air-gapped signer for shielded ZEC (SeedSigner model) 1-@AngelCastilloB](https://forum.zcashcommunity.com/t/feedback-wanted-a-diy-open-source-air-gapped-signer-for-shielded-zec-seedsigner-model/56927)
 
 [The Coinholder Voting Chain -@ValarDragon](https://forum.zcashcommunity.com/t/the-coinholder-voting-chain/56925)
+
+[@mert on Zcash: -@will__mcevoy](https://x.com/will__mcevoy/status/2085757600465825910?s=20)
+
+
 
 
 ## Meme Of The Week 😊
