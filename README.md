@@ -187,13 +187,13 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 ## Jobs in the ecosystem
 
--[ZecHub Bounties](https://bounties.zechub.wiki/)
+[ZecHub Bounties](https://bounties.zechub.wiki/)
 
--[ZKAV Club Opportunities](https://zkav.club/opportunities/)
+[ZKAV Club Opportunities](https://zkav.club/opportunities/)
 
--[zkSNARKs Grants](https://zksnarks.net/grants.html)
+[zkSNARKs Grants](https://zksnarks.net/grants.html)
 
--[Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
+[Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
 
 -[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
 
