@@ -27,9 +27,9 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [NEAR Intents (@near_intents) underwent planned maintenance on Thursday, Aug. 6 from 12:00–14:00 UTC - @zodl_support](https://x.com/zodl_support/status/2084640442734309732?s=20)
 
-[Zebra 6.2.3 is out -InsideZcash](https://x.com/InsideZcash/status/2084655815412039876?s=20)
+[Zebra 6.2.3 is out -@InsideZcash](https://x.com/InsideZcash/status/2084655815412039876?s=20)
 
-[Zebra 6.2.3 Release](https://forum.zcashcommunity.com/t/zebra-6-2-3-release/56842)
+[Zebra 6.2.3 Release -@zcashfoundation](https://forum.zcashcommunity.com/t/zebra-6-2-3-release/56842)
 
 [One competition down, the mission continues -@gilmore](https://forum.zcashcommunity.com/t/one-competition-down-the-mission-continues/56911)
 
@@ -94,6 +94,10 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [Zcash Community Grants Meeting Minutes 8/3/2026 -@jatinsahijwani](https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-8-3-2026/56909/3)
 
 [Grant Application - Open Light Nodes: Independent Zcash Light Client Infrastructure for Asia -@jatinsahijwani](https://forum.zcashcommunity.com/t/grant-application-open-light-nodes-independent-zcash-light-client-infrastructure-for-asia/56847/2)
+
+[Zcash Network School -@andr9froes](https://forum.zcashcommunity.com/t/zcash-network-school/55269/21)
+
+[[Grant Application] zeclight — independent light-client infrastructure from South Asia (Zebra + Zaino, Si-@zerodartz](https://forum.zcashcommunity.com/t/grant-application-zeclight-independent-light-client-infrastructure-from-south-asia-zebra-zaino-singapore/56906/8)
 
 
 ## Community Projects 🌐
