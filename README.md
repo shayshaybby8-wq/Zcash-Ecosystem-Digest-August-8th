@@ -191,11 +191,9 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [ZKAV Club Opportunities](https://zkav.club/opportunities/)
 
-[zkSNARKs Grants](https://zksnarks.net/grants.html)
-
 [Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
 
--[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
+[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
 
 
  
