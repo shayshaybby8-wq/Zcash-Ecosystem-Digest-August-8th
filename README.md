@@ -43,6 +43,10 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [When I fell into the Zcash rabbit hole last year, I did not see this coming! -@thefrankbraun](https://x.com/thefrankbraun/status/2085441888216342836?s=20)
 
+[ZSA Testnet-@_jon](https://forum.zcashcommunity.com/t/zsa-testnet/56884/9)
+
+[New Version of Zingo-PC-@Edicksonjga](https://forum.zcashcommunity.com/t/new-version-of-zingo-pc/45359/133)
+
 
 
 ## Zcash Community Grants 🏛️
@@ -178,7 +182,7 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [NYM Community Call With: @feministPLT @harryhalpin](https://x.com/nym/status/2085399625008042032?s=20)
  
- 
+[Zecmap & Zec Market Update -@Batuhan](https://forum.zcashcommunity.com/t/zecmap-zec-market-update/56877/4)
 
 
 ## Meme Of The Week 😊
