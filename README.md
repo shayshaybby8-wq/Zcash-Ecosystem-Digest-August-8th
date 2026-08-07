@@ -47,7 +47,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [New Version of Zingo-PC-@Edicksonjga](https://forum.zcashcommunity.com/t/new-version-of-zingo-pc/45359/133)
 
+[Zcash Ecosystem Mapping Apr-2026 -@Shawn ](https://forum.zcashcommunity.com/t/zcash-ecosystem-mapping-apr-2026/56929/1)
 
+[Zebra 6.2.3 Release-@cartesien](https://forum.zcashcommunity.com/t/zebra-6-2-3-release/56842/5)
+
+[ZCAP NU7 Poll Opens August 27th -@ZcashFoundation](https://forum.zcashcommunity.com/t/zcap-nu7-poll-opens-august-27th/56928/1)
 
 ## Zcash Community Grants 🏛️
 
@@ -65,7 +69,7 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Grant Application - Offensive Security #340 -@phill](https://forum.zcashcommunity.com/t/grant-application-offensive-security-340/56474/7)
 
-[Zcash Belgium Chapter -@Sebastein](https://forum.zcashcommunity.com/t/zcash-belgium-chapter/56893/1)
+[Zcash Belgium Chapter -@Batuhan](https://forum.zcashcommunity.com/t/zcash-belgium-chapter/56893/1)
 
 [Grant Application - Batch-vs-Single Verification Equivalence: Continuous Soundness Fuzzing for Zcash Shielded Verification (incl. Ironwood) -@robustfengbin](https://forum.zcashcommunity.com/t/grant-application-batch-vs-single-verification-equivalence-continuous-soundness-fuzzing-for-zcash-shielded-verification-incl-ironwood/56308/2)
 
@@ -87,7 +91,7 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Zainod release announcements -@zancas](https://forum.zcashcommunity.com/t/zainod-release-announcements/55845/2)
 
-[BTCPayServer Multi-Account and 0conf Mempool Notifications -@1337bytes](https://forum.zcashcommunity.com/t/btcpayserver-multi-account-and-0conf-mempool-notifications/55316/25)
+[BTCPayServer Multi-Account and 0conf Mempool Notifications -@palmar](https://forum.zcashcommunity.com/t/btcpayserver-multi-account-and-0conf-mempool-notifications/55316/30)
 
 [Call For Proposals: Coinholder-Directed Retroactive Grants Program Q3 -@MrSane](https://forum.zcashcommunity.com/t/call-for-proposals-coinholder-directed-retroactive-grants-program-q3/56885/2)
 
@@ -103,6 +107,9 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [[Grant Application] zeclight — independent light-client infrastructure from South Asia (Zebra + Zaino, Si-@zerodartz](https://forum.zcashcommunity.com/t/grant-application-zeclight-independent-light-client-infrastructure-from-south-asia-zebra-zaino-singapore/56906/8)
 
+[Nozy wallet Retroactive Grant -@Lowo88](https://forum.zcashcommunity.com/t/nozy-wallet-retroactive-grant/52417/26)
+
+[Blindvault - Privacy-Preserving Credentials Issuance Service -@rawbytedev](https://forum.zcashcommunity.com/t/retroactive-grant-application-blindvault/56932/1)
 
 ## Community Projects 🌐
 
@@ -183,6 +190,18 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [NYM Community Call With: @feministPLT @harryhalpin](https://x.com/nym/status/2085399625008042032?s=20)
  
 [Zecmap & Zec Market Update -@Batuhan](https://forum.zcashcommunity.com/t/zecmap-zec-market-update/56877/4)
+
+[What are you listening to?-@Autotunafish](https://forum.zcashcommunity.com/t/what-are-you-listening-to/20456/942)
+
+[Nozy Lounge -@Lowo88](https://forum.zcashcommunity.com/t/nozy-lounge/56930/2)
+
+[Will we remain a network that explains privacy to humans?-@operational-anxiety4](https://forum.zcashcommunity.com/t/will-we-remain-a-network-that-explains-privacy-to-humans/56809/6)
+
+[Zk Av Club Recording Station at Dark Prague 2025-@ryan.taylor](https://forum.zcashcommunity.com/t/zk-av-club-recording-station-at-dark-prague-2025/52249/21)
+
+[Feedback wanted: a DIY, open source, air-gapped signer for shielded ZEC (SeedSigner model) 1-@AngelCastilloB](https://forum.zcashcommunity.com/t/feedback-wanted-a-diy-open-source-air-gapped-signer-for-shielded-zec-seedsigner-model/56927)
+
+[The Coinholder Voting Chain -@ValarDragon](https://forum.zcashcommunity.com/t/the-coinholder-voting-chain/56925)
 
 
 ## Meme Of The Week 😊
