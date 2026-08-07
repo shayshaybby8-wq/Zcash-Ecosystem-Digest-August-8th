@@ -167,9 +167,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 
 ## Meme Of The Week 😊
+
 [1M ZEC in Ironwood. -@zodl_co](https://x.com/zodl_co/status/2084646459928977485?s=20)
 
 ## Jobs in the ecosystem
+
 -[ZecHub Bounties](https://bounties.zechub.wiki/)
 -[ZKAV Club Opportunities](https://zkav.club/opportunities/)
 -[zkSNARKs Grants](https://zksnarks.net/grants.html)
