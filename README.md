@@ -94,47 +94,87 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 ## Community Projects 🌐
 
 [Zcash Protocol Study Series -@zcashbrazil](https://x.com/zcashbrazil/status/2084388212563415230?s=20)
+
 [Zona Z 🧠 - Edition 48 with @AAmandita_ -@zcashbrazil](https://x.com/zcashbrazil/status/2084634984199971080?s=20)
+
 [Zcash Protocol Walkthrough Session #7: Sending, Receiving, and Scanning -@shieldedmark](https://x.com/shieldedmark/status/2084629403028299868?s=20)
+
 [ZEC TRIVIA  🧠| SeaZon II Date: 6th August- @zcashbrazil](https://x.com/zcashbrazil/status/2084685954896347414?s=20)
+
 [Episode #03 of Radar TokenNation is now on Spotify! -@tokennation_io](https://x.com/tokennation_io/status/2084733822533357626?s=20)
+
 [Zcash: Financial privacy as a bulletproof vest -@zcashbrazil](https://x.com/zcashbrazil/status/2084758853367861614?s=20)
+
 [Over 1 million ZEC are already in the Ironwood pool.-@zcasbrazil](https://x.com/zcashbrazil/status/2084997568090485007?s=20)
+
 [Ironwood live: 1,288,588 ZEC have already migrated to the new shielded pool](https://x.com/zcashbrazil/status/2085137453841596583?s=20)
+
 [Coinholder vote starting August 25 and lasting approximately 18 days, deciding on the scope of the upcoming NU7 upgrade. -@ebfull](https://x.com/ebfull/status/2085132326493970838?s=20)
+
 [Frank Braun Joins Shielded Labs Board -@aquietinvestor](https://x.com/aquietinvestor/status/2085388422378897534?s=20)
+
 [WHICH ZCASH ADDRESS SHOULD YOU USE? -@rafaelando__](https://x.com/rafaelando__/status/2085364248482402776?s=20)
+
 [Zcash also lives through regional communities -@web3privacy](https://x.com/web3privacy/status/2085476210461581352?s=20)
+
 [One way to catch up on Zcash is to watch the monthly summaries from @ZcastEsp. -@zcashesp1](https://x.com/zcashesp1/status/2084753241431044521?s=20)
+
 [7th meetup and trivia -@zcashqro](https://x.com/zcashqro/status/2085071910757691708?s=20)
+
 [At Zcash en Español, we are proud to run several nodes managed by members of our community. -@zcashesp1](https://x.com/zcashesp1/status/2085131675650965700?s=20)
+
 [It's coming! This @ETHSpain_ event will be awesome!- @gordonesTV](https://x.com/gordonesTV/status/2084391429703422047?s=20)
+
 [This Friday we have Zingo Recap! 7th August -@ZingoLabEsp](https://x.com/ZingoLabEsp/status/2084973602118451392?s=20)
+
 [The Spanish-speaking Zcash community now has its own node! -@gordonesTV](https://forum.zcashcommunity.com/t/the-spanish-speaking-zcash-community-now-has-its-own-node/55530)
+
 [Zcash Club Querétaro-Mexico: advancing financial privacy in Mexico -@palmar](https://forum.zcashcommunity.com/t/zcash-club-queretaro-mexico-advancing-financial-privacy-in-mexico/55764/2)
+
 [Zcash for Venezuela -@gordonesTV](https://forum.zcashcommunity.com/t/zcash-for-venezuela/56445/30)
+
 [From Street Interviews to Education: Growing Zcash Awareness in Türkiye -@CryptoEpoch](https://forum.zcashcommunity.com/t/from-street-interviews-to-education-growing-zcash-awareness-in-turkiye/56903/1)
+
 [Call for Project Proposals for the Coinholder-Directed Retrospective Grant Program (Q3 2026) is Now Open! -@ZcashTR](https://x.com/ZcashTR/status/2084681252150624346?s=20)
+
 [JUST IN: @vizorwallet has shipped BIP39 passphrase support. -@cypherpunk](https://x.com/cypherpunk/status/2084699862948340148?s=20)
+
 [Zcash Challenge at Rlay Blockchain Week!, sponsored by @ZcashTR -@RlayHub](https://x.com/RlayHub/status/2085000872036090196?s=20)
+
 [Zcash Protected News | Volume 30 -@ZcashTR](https://x.com/ZcashTR/status/2085037817055297579?s=20)
+
 [Zcash Community Grants Meeting Minutes Summary -@ZcashTR](https://x.com/ZcashTR/status/2085256032377315772?s=20)
+
 [An added layer of network privacy. -@vizorwallet](https://x.com/vizorwallet/status/2085343779268239503?s=20)
+
 [Our video challenge is still on!, Submission Deadline: August 10 -@ZcashEastAfrica](https://x.com/ZcashEastAfrica/status/2084647223313248317?s=20)
+
 [Zcash Ghana MeetUp -@ZcashGH](https://x.com/ZcashGH/status/2085329637312209275?s=20)
+
 [Now, 21.5% of the $ZEC in the Shield pool exists in the Ironwood Pool. -@zcashkorea](https://x.com/zcashkorea/status/2084635935250194607?s=20)
+
 [A small milestone, but an important one. -@ZcashIND](https://x.com/ZcashIND/status/2084200884108710268?s=20)
+
 [ Zcash India Live #05 is here! -@ZcashIND](https://x.com/ZcashIND/status/2085315606954565850?s=20)
+
 [Zcash India Meetup Bounty #2 is LIVE -@ZcashIND](https://x.com/ZcashIND/status/2084919775688552584?s=20)
+
 [Thanks to @ZecMap Zcash can now be used to purchase -@ZcashIND](https://x.com/Zcash/status/2083894328787705975?s=20)
+
 [What can we do to reward users who add businesses to Zecmap? 👀 -@ZecMap](https://x.com/ZecMap/status/2084380697620345034?s=20)
+
 [We’re proud to welcome @Zcash as a Gold Sponsor of Web3Lagos Conference 5.0. -@Web3LagosCon](https://x.com/Web3LagosCon/status/2085044527262290004?s=20)
 
 
-## Meme Of The Week
+## Meme Of The Week 😊
 [1M ZEC in Ironwood. -@zodl_co](https://x.com/zodl_co/status/2084646459928977485?s=20)
 
 ## Jobs in the ecosystem
+[ZecHub Bounties](https://bounties.zechub.wiki/)
+[ZKAV Club Opportunities](https://zkav.club/opportunities/)
+[zkSNARKs Grants](https://zksnarks.net/grants.html)
+[Principal Engineer - ZODL](https://jobs.ashbyhq.com/zodl/3cc7aac7-9d53-49c9-bdc4-94c2b9c6a5e4)
+[Careers On ZODL](https://jobs.ashbyhq.com/zodl)
 
 
  
