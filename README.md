@@ -11,6 +11,8 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Announcement of Hackathon 3.0 winners -@ZecHub](https://x.com/ZecHub/status/2084392732550951014?s=20)
 
+[Zodl 3.9.0: Ironwood Migration & ZODL Slipstream -@zodl_app](https://x.com/zodl_app/status/2085900580174569950?s=46)
+
 [Zcash Shielded News | Vol.30 -@ZecHub](https://x.com/ZecHub/status/2085010499435999498?s=20)
 
 [There is a new @free2zcash homepage experience -Kevin Bravo @0bkevin](https://x.com/0bkevin/status/2084433447343304718?s=20)
@@ -122,6 +124,8 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 
 [Zona Z 🧠 - Edition 48 with @AAmandita_ -@zcashbrazil](https://x.com/zcashbrazil/status/2084634984199971080?s=20)
 
+[“You don’t have a right to a bank account.” -@zkMarketer](https://x.com/zkmarketer/status/2085691623367696612?s=46)
+
 [Zcash Protocol Walkthrough Session #7: Sending, Receiving, and Scanning -@shieldedmark](https://x.com/shieldedmark/status/2084629403028299868?s=20)
 
 [ZEC TRIVIA  🧠| SeaZon II Date: 6th August- @zcashbrazil](https://x.com/zcashbrazil/status/2084685954896347414?s=20)
@@ -129,6 +133,8 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [Episode #03 of Radar TokenNation is now on Spotify! -@tokennation_io](https://x.com/tokennation_io/status/2084733822533357626?s=20)
 
 [Zcash: Financial privacy as a bulletproof vest -@zcashbrazil](https://x.com/zcashbrazil/status/2084758853367861614?s=20)
+
+[🎉 Surat, we're coming! 🦓🇮🇳 -@ZcashIND](https://x.com/zcashind/status/2085826875365245264?s=46)
 
 [Over 1 million ZEC are already in the Ironwood pool.-@zcasbrazil](https://x.com/zcashbrazil/status/2084997568090485007?s=20)
 
@@ -209,6 +215,11 @@ Curated by [shayshaybby](https://x.com/ShayShay07210)
 [The Coinholder Voting Chain -@ValarDragon](https://forum.zcashcommunity.com/t/the-coinholder-voting-chain/56925)
 
 [@mert on Zcash: -@will__mcevoy](https://x.com/will__mcevoy/status/2085757600465825910?s=20)
+
+[Celebrating 1M zec in Ironwood -@ZcashNigeria](https://x.com/zcashnigeria/status/2085758186741522858?s=46)
+
+
+[Yo, Yoruba rap hits completely different! 🔥 -@ZcashNigeria](https://x.com/zcashnigeria/status/2085764434551599504?s=46)
 
 
 
